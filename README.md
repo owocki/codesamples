@@ -16,3 +16,6 @@ Here are some samples of my work during various projects that I've worked on.
 Email me at `ksowocki [at] gmail {dot} com`.
 
 Thanks!
+
+<!-- Google Analytics --> 
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/codesamples' style='width:1px; height:1px;' >
