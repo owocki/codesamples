@@ -13,7 +13,8 @@ Here are some samples of my work during various projects that I've worked on.
 
 # More available by request.
 
-Email me at `ksowocki [at] gmail {dot} com`.
+If you would like to get in touch, my contact information is on [owocki.com](http://owocki.com/contact) or I am [@owocki on twitter](http://twitter.com/owocki).
+
 
 Thanks!
 
