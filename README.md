@@ -8,7 +8,7 @@ Here are some samples of my work during various projects that I've worked on.
 
 * `misc` - These are just random coding challenges I've performed on interviews.
 * `php_coding_challenge` - A coding challenge I executed for a PHP development position.  Details [here](https://github.com/owocki/codesamples/blob/master/php_coding_challenge/README.md)
-* `rails_app` - A controller and a model for a rails side project I've been working on.  See it running in production [here](http://slowordown.com/).
+* `rails_app` - A controller and a model for a rails side project I've been working on.  See it's full source code [here](https://github.com/owocki/slowordown).
 * `stepout` - Various code from my tenure as CTO of StepOut.  Includes model-layer PHP code, jQuery, Unit Testing 
 
 # More available by request.
